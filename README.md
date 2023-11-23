@@ -3,7 +3,7 @@
 ### ¿Qué es el phishing? 
 El phishing, o fraude electrónico, representa una amenaza seria en el mundo cibernético. Este delito implica que los atacantes se hagan pasar por entidades
 de confianza para obtener información confidencial de las personas, como datos bancarios o contraseñas. La detección efectiva de phishing es crucial para proteger la seguridad en línea de los usuarios.
-
+![Imagen sobre phishing](https://github.com/lorenrave/Phishing_detection_model/blob/main/src/phishing_.jpg)
 
 ## ¿Cómo podemos evitar el phishing?
 A través del aprendizaje automático, podemos identificar si existe una amenaza de phishing y actuar ante ello. Desde el punto de vista de la seguridad es una herramienta clave que puede evitar muchos delitos.
